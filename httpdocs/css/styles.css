@@ -1,0 +1,8 @@
+.bg-img {
+    background: url('../img/bg_index.jpg') no-repeat top right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
